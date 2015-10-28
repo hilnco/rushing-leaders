@@ -93,7 +93,7 @@ for i in stats_list:
 		#-----------------------------------------------------------------
 
 		try:
-		    conn=psycopg2.connect("dbname='stats' user='jhill'")
+		    conn=psycopg2.connect("dbname='stats' user='postgres'")
 		except:
 		    print ('Unable to connect to database.')
 		    
