@@ -3,6 +3,7 @@ NEAP-stack (Node.js/Express/Angular/Postgres) app that loads JSON data from Supe
 
 ## Prequisites
 
+1. Node.js
 1. PostgreSQL database (I used v9.4)
 1. Python 2.6 or 3
 
