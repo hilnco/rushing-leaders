@@ -25,3 +25,4 @@ NEAP-stack (Node.js/Express/Angular/Postgres) app that loads JSON data from Supe
 1. Add existing record check
 2. Add key to db table that relates to input json 
 3. Add input validation (pre/post counts)
+4. Add error handling
